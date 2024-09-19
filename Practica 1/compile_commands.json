@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo06",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo06\\main.cpp\" -o \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo06\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo02",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo02\\main.cpp\" -o \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo02\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo05",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo05\\main.cpp\" -o \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo05\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo04",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo04\\main.cpp\" -o \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo04\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo03",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo03\\main.cpp\" -o \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo03\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo01",
+  "command": "clang++ -c \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo01\\main.cpp\" -o \"C:\\Users\\pablo\\Documents\\ejemplo 1\\ejemplo01\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
